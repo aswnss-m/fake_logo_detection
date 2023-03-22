@@ -2,7 +2,7 @@
 
 Authors
 
-[Aswin Lal M](www.linkedin.com/in/aswnss) <br>
+[Aswin Lal M](https://www.linkedin.com/in/aswnss) <br>
 [Bhavagath Mohan](mailto:bhagavathmani2016@gmail.com) <br>
 [Hashir P Anwer](mailto:hashirpanwer@gmail.com)
 
@@ -35,7 +35,7 @@ The proposed mini project aims to develop a system that can detect fake or plagi
     ```
 3. Installing requirements
     ```
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 
 ## References
