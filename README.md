@@ -2,9 +2,9 @@
 
 Authors
 
-[Aswin Lal M]("www.linkedin.com/in/aswnss") <br>
-[Bhavagath Mohan]("mailto:bhagavathmani2016@gmail.com") <br>
-[Hashir P Anwer]("mailto:hashirpanwer@gmail.com")
+[Aswin Lal M](www.linkedin.com/in/aswnss) <br>
+[Bhavagath Mohan](mailto:bhagavathmani2016@gmail.com) <br>
+[Hashir P Anwer](mailto:hashirpanwer@gmail.com)
 
 # Fake Logo Detection Using Machine Learning
 
@@ -18,9 +18,9 @@ The proposed mini project aims to develop a system that can detect fake or plagi
 4. Large Logo Dataset
 
 ## Dataset
-1.  [Large Logo Dataset]("https://data.vision.ee.ethz.ch/sagea/lld/data/LLD-logo_files.zip")
-2.  [WIPO Logos]("https://drive.google.com/drive/folders/1VXE0FWqLQDJijI8FeFN2v9gy8jA6cfGa?usp=share_link")
-3.  [Brand Logos]("https://www.kaggle.com/datasets/kkhandekar/popular-brand-logos-image-dataset")
+1.  [Large Logo Dataset](https://data.vision.ee.ethz.ch/sagea/lld/data/LLD-logo_files.zip)
+2.  [WIPO Logos](https://drive.google.com/drive/folders/1VXE0FWqLQDJijI8FeFN2v9gy8jA6cfGa?usp=share_link)
+3.  [Brand Logos](https://www.kaggle.com/datasets/kkhandekar/popular-brand-logos-image-dataset)
 4.  
 ## Installing the Project
 
